@@ -3,9 +3,9 @@
 // @namespace    http://average.website
 // @version      1.1.5
 // @description  Copy current post tags and rating on boorus and illustration2vec in to the clipboard for easy import in to a program or another booru.
-// @author       William Moodhe
-// @downloadURL  https://github.com/JetBoom/boorutagparser/raw/master/boorutagparser.user.js
-// @updateURL    https://github.com/JetBoom/boorutagparser/raw/master/boorutagparser.user.js
+// @author       William Moodhe (forked by GlassedSilver)
+// @downloadURL  https://github.com/GlassedSilver/boorutagparser/raw/master/boorutagparser.user.js
+// @updateURL    https://github.com/GlassedSilver/boorutagparser/raw/master/boorutagparser.user.js
 
 // Illustration2Vec
 // @include      *demo.illustration2vec.net*
